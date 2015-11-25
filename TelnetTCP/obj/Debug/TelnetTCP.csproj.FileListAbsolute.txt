@@ -1,0 +1,5 @@
+c:\users\razumihin\documents\visual studio 2015\Projects\TelnetTCP\TelnetTCP\bin\Debug\TelnetTCP.dll
+c:\users\razumihin\documents\visual studio 2015\Projects\TelnetTCP\TelnetTCP\bin\Debug\TelnetTCP.pdb
+c:\users\razumihin\documents\visual studio 2015\Projects\TelnetTCP\TelnetTCP\obj\Debug\TelnetTCP.csprojResolveAssemblyReference.cache
+c:\users\razumihin\documents\visual studio 2015\Projects\TelnetTCP\TelnetTCP\obj\Debug\TelnetTCP.dll
+c:\users\razumihin\documents\visual studio 2015\Projects\TelnetTCP\TelnetTCP\obj\Debug\TelnetTCP.pdb

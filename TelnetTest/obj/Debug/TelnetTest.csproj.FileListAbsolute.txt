@@ -1,0 +1,8 @@
+c:\users\razumihin\documents\visual studio 2015\Projects\TelnetTCP\TelnetTest\bin\Debug\TelnetTest.exe.config
+c:\users\razumihin\documents\visual studio 2015\Projects\TelnetTCP\TelnetTest\bin\Debug\TelnetTest.exe
+c:\users\razumihin\documents\visual studio 2015\Projects\TelnetTCP\TelnetTest\bin\Debug\TelnetTest.pdb
+c:\users\razumihin\documents\visual studio 2015\Projects\TelnetTCP\TelnetTest\bin\Debug\TelnetTCP.dll
+c:\users\razumihin\documents\visual studio 2015\Projects\TelnetTCP\TelnetTest\bin\Debug\TelnetTCP.pdb
+c:\users\razumihin\documents\visual studio 2015\Projects\TelnetTCP\TelnetTest\obj\Debug\TelnetTest.csprojResolveAssemblyReference.cache
+c:\users\razumihin\documents\visual studio 2015\Projects\TelnetTCP\TelnetTest\obj\Debug\TelnetTest.exe
+c:\users\razumihin\documents\visual studio 2015\Projects\TelnetTCP\TelnetTest\obj\Debug\TelnetTest.pdb

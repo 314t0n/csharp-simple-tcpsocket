@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelnetTCP", "TelnetTCP\TelnetTCP.csproj", "{ED9ED8CB-6C2E-4B89-8ABC-37B3849D858D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelnetTest", "TelnetTest\TelnetTest.csproj", "{DA04956E-9432-45D3-B7B9-70808C2C8100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED9ED8CB-6C2E-4B89-8ABC-37B3849D858D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED9ED8CB-6C2E-4B89-8ABC-37B3849D858D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED9ED8CB-6C2E-4B89-8ABC-37B3849D858D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED9ED8CB-6C2E-4B89-8ABC-37B3849D858D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA04956E-9432-45D3-B7B9-70808C2C8100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA04956E-9432-45D3-B7B9-70808C2C8100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA04956E-9432-45D3-B7B9-70808C2C8100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA04956E-9432-45D3-B7B9-70808C2C8100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
